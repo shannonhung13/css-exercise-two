@@ -58,10 +58,20 @@ figcaption{
 
 h1 {
   font-size: 2em;
+  padding-bottom: 20px;
 }
 
 h3 {
   font-size: 1.5em;
+  padding-bottom: 20px;
+}
+
+.author {
+  padding-bottom: 20px;
+}
+
+p {
+  padding-bottom: 20px;
 }
 
 a {
